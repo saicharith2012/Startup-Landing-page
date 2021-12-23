@@ -22,7 +22,7 @@ h1{
     font-size: 2rem;
     font-weight: bolder;
     color:white;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-family: Montserrat;
 
 }
