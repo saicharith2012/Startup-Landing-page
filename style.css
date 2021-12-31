@@ -46,7 +46,7 @@ button{
 }
 
 .btn-primary{
-    transition: all 0.5s;
+    transition: all 0.3s;
     padding: 1em 2em;
 
 }
